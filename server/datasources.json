@@ -1,0 +1,25 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "lb_demo_ds": {
+    "host": "localhost",
+    "port": 3306,
+    "url": "",
+    "database": "lb_demo",
+    "password": "pos95",
+    "name": "lb_demo_ds",
+    "user": "developer",
+    "connector": "mysql"
+  },
+  "mongodb_demo_ds": {
+    "host": "localhost",
+    "port": 27017,
+    "database": "lb_demo",
+    "password": "",
+    "name": "mongodb_demo_ds",
+    "connector": "mongodb",
+    "user": ""
+  }
+}
