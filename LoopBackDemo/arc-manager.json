@@ -1,0 +1,12 @@
+{
+  "ids": {
+    "ManagerHost": 2,
+    "LoadBalancer": 1
+  },
+  "models": {
+    "ManagerHost": {
+      "35009eaa-a3ca-4334-965f-19f8630b495f": "{\"id\":\"35009eaa-a3ca-4334-965f-19f8630b495f\",\"host\":\"192.168.0.81\",\"port\":8701,\"actions\":[\"delete\",\"edit\"],\"protocol\":\"http\",\"created\":1479955485528,\"error\":{\"message\":\"connect ECONNREFUSED 192.168.0.81:8701\"},\"errorType\":\"connection\",\"app\":null,\"processes\":null,\"$$hashKey\":\"object:180\",\"isHostProblem\":true}"
+    },
+    "LoadBalancer": {}
+  }
+}
