@@ -1,7 +1,7 @@
 {
   "name": "loopbackdemo",
   "description": "loopbackdemo description",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "auto-updater": {
     "repo": "venugopaln/startuprepo",
     "branch": "master"
