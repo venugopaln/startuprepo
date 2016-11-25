@@ -1,7 +1,7 @@
 {
   "name": "loopbackdemo",
   "description": "loopbackdemo description",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "auto-updater": {
     "repo": "/github-user/github-repo",
     "branch": "master"
